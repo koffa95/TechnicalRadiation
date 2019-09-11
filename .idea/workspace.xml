@@ -10,22 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f0fbba-385c-4fed-b901-f79ea8f8c1e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/Entities/NewsItemCategories.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/CategoryDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DTO/CategoryDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/DTO/AuthorDetailDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DTO/AuthorDetailDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/DTO/AuthorDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DTO/AuthorDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/DTO/CategoryDetailDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DTO/CategoryDetailDto.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/DTO/NewsItemDetailDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DTO/NewsItemDetailDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/DTO/NewsItemDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DTO/NewsItemDto.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/Entities/Author.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Entities/Author.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Entities/AuthorNewsItemRelation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Entities/NewsItemAuthors.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/Entities/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Entities/Category.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/Entities/NewsItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Entities/NewsItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Entities/NewsItemCategoryRelation.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/InputModels/AuthorInputModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/InputModels/AuthorInputModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/InputModels/CategoryInputModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/InputModels/CategoryInputModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Models/InputModels/NewsItemInputModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/InputModels/NewsItemInputModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/TechnicalRadiation.WebApi.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/TechnicalRadiation.cbp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,8 @@
       <updated>1568198891698</updated>
       <workItem from="1568198894270" duration="2905000" />
       <workItem from="1568202152337" duration="149000" />
-      <workItem from="1568202302741" duration="6423000" />
+      <workItem from="1568202302741" duration="6529000" />
+      <workItem from="1568209868755" duration="1613000" />
     </task>
     <servers />
   </component>

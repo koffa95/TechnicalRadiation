@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations;
 namespace Models
 {
     public class NewsItemInputModel
@@ -7,12 +8,12 @@ namespace Models
         [Required]
         public string ImgSource { get; set; }
         [Required]
-        [Range(0-50)]
+        [Range(1,50)]
         public string ShortDescription{ get; set; }
         [MinLength(50)]
         [MaxLength(225)]
         public string LongDescription{ get; set; }
         [Required]
-        public DateTime PublishDate{get; set;}
+        public System.DateTime PublishDate{get; set;}
     }
 }
