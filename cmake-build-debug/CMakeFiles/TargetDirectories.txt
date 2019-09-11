@@ -1,0 +1,3 @@
+/home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug/CMakeFiles/TechnicalRadiation.dir
+/home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug/CMakeFiles/edit_cache.dir
