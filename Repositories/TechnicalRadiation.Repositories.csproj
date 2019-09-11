@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\RentAWorld.Models\RentAWorld.Models.csproj" />
+    <ProjectReference Include="..\Models\RentAWorld.Models.csproj" />
   </ItemGroup>
 
   <ItemGroup>

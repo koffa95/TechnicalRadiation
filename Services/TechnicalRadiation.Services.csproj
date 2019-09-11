@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\RentAWorld.Models\RentAWorld.Models.csproj" />
-    <ProjectReference Include="..\RentAWorld.Repositories\RentAWorld.Repositories.csproj" />
+    <ProjectReference Include="..\Models\TechnicalRadiation.Models.csproj" />
+    <ProjectReference Include="..\Repositories\TechnicalRadiation.Repositories.csproj" />
   </ItemGroup>
 
   <ItemGroup>
