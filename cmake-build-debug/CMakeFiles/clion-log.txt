@@ -1,1 +1,4 @@
-CMakeLists.txt not found in /home/kolfinna/CLionProjects/TechnicalRadiation Select CMakeLists.txt file...
+/snap/clion/82/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/kolfinna/CLionProjects/TechnicalRadiation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug

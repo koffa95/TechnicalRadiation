@@ -84,6 +84,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/Envelope.cs">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/HyperMediaExtensions.cs">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/HyperMediaModel.cs">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/README.md">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug/CMakeCache.txt">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug/Makefile">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug/TechnicalRadiation.cbp">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
+		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/cmake-build-debug/cmake_install.cmake">
+			<Option target="TechnicalRadiation"/>
+		</Unit>
 		<Unit filename="/home/kolfinna/CLionProjects/TechnicalRadiation/main.cpp">
 			<Option target="TechnicalRadiation"/>
 		</Unit>
