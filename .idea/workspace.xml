@@ -10,10 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f0fbba-385c-4fed-b901-f79ea8f8c1e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/TechnicalRadiation.Models.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Repositories/TechnicalRadiation.Repositories.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApi/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApi/TechnicalRadiation.WebApi.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApi/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/TechnicalRadiation.Repositories.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/TechnicalRadiation.Repositories.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/TechnicalRadiation.Services.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Services/TechnicalRadiation.Services.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +42,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebApi" />
+      <recent name="$PROJECT_DIR$/Services" />
       <recent name="$PROJECT_DIR$/Repositories" />
       <recent name="$PROJECT_DIR$/.vscode" />
     </key>
@@ -67,7 +72,7 @@
       <updated>1568198891698</updated>
       <workItem from="1568198894270" duration="2905000" />
       <workItem from="1568202152337" duration="149000" />
-      <workItem from="1568202302741" duration="1784000" />
+      <workItem from="1568202302741" duration="2253000" />
     </task>
     <servers />
   </component>
