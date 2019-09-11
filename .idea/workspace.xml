@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67f0fbba-385c-4fed-b901-f79ea8f8c1e8" name="Default Changelist" comment="" />
+    <list default="true" id="67f0fbba-385c-4fed-b901-f79ea8f8c1e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <updated>1568198891698</updated>
       <workItem from="1568198894270" duration="2905000" />
       <workItem from="1568202152337" duration="149000" />
-      <workItem from="1568202302741" duration="809000" />
+      <workItem from="1568202302741" duration="930000" />
     </task>
     <servers />
   </component>

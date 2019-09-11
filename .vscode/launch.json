@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/RentAWorld.WebApi/bin/Debug/netcoreapp2.2/RentAWorld.WebApi.dll",
+      "program": "${workspaceFolder}/TechnicalRadiation.WebApi/bin/Debug/netcoreapp2.2/TechnicalRadiation.WebApi.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/RentAWorld.WebApi",
+      "cwd": "${workspaceFolder}/TechnicalRadiation.WebApi",
       "stopAtEntry": false,
       // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
       "serverReadyAction": {
