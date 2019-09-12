@@ -1,7 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
+using Repositories.Data;
 using Models.DTO;
-using TechnicalRadiation.Repositories.Data;
+using Models.Entities;
 
 namespace TechnicalRadiation.Repositories
 {

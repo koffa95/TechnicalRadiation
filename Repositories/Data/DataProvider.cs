@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Models.Entities;
 
-namespace TechnicalRadiation.Repositories.Data
+namespace Repositories.Data
 {
     public static class DataProvider
     {
