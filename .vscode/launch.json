@@ -10,7 +10,7 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/TechnicalRadiation.WebApi/bin/Debug/netcoreapp2.2/TechnicalRadiation.WebApi.dll",
+      "program": "${workspaceFolder}/TechnicalRadiation.WebApi/TechnicalRadiadion.csproj",
       "args": [],
       "cwd": "${workspaceFolder}/TechnicalRadiation.WebApi",
       "stopAtEntry": false,

@@ -10,8 +10,8 @@ namespace Models.Entities
         public string ShortDescription { get; set;}
         public string LongDescription { get; set;}
         public DateTime PublishDate { get; set;}
-        private DateTime ModifiedBy { get; set;} //(code-generated),
-        private DateTime CreatedDate { get; set;}//(code-generated),
-        private DateTime ModifiedDate { get; set;}//(code-generated)
+        public String ModifiedBy { get; set;} //(code-generated),
+        public DateTime CreatedDate { get; set;}//(code-generated),
+        public DateTime ModifiedDate { get; set;}//(code-generated)
     }
 }

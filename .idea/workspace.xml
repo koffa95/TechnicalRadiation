@@ -10,22 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f0fbba-385c-4fed-b901-f79ea8f8c1e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/DTO/NewsItemDetailDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/DTO/NewsItemDetailDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Entities/Author.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Entities/Author.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Entities/Category.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Entities/Category.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Entities/NewsItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Entities/NewsItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/InputModels/AuthorInputModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/InputModels/AuthorInputModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/InputModels/CategoryInputModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/InputModels/CategoryInputModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/InputModels/NewsItemInputModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/InputModels/NewsItemInputModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/TechnicalRadiation.WebApi.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApi/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/TechnicalRadiation.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/TechnicalRadiation.Models.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Models/TechnicalRadiation.Models.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repositories/TechnicalRadiation.Repositories.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Repositories/TechnicalRadiation.Repositories.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/Controllers/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/Controllers/Controller.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +32,22 @@
   <component name="ProjectId" id="1QgiyBcPmMLI1RxYcWKMGhLdcQy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ToolWindowCMake.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WebApi" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Models/DTO" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/WebApi" />
       <recent name="$PROJECT_DIR$/Services" />
       <recent name="$PROJECT_DIR$/Repositories" />
       <recent name="$PROJECT_DIR$/.vscode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebApi" />
+      <recent name="$PROJECT_DIR$/Models/DTO" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -83,7 +75,7 @@
       <workItem from="1568198894270" duration="2905000" />
       <workItem from="1568202152337" duration="149000" />
       <workItem from="1568202302741" duration="6529000" />
-      <workItem from="1568209868755" duration="1613000" />
+      <workItem from="1568209868755" duration="6980000" />
     </task>
     <servers />
   </component>
