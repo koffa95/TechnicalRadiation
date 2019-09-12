@@ -7,7 +7,7 @@ namespace TechnicalRadiation.Repositories
 {
     public class NewsItemRepository
     {
-        public IEnumerable<NewsItemDto> GetAllNewsItems()
+        public IEnumerable<NewsItemDto> GetAllNewsItems(int id)
         {
             return DataProvider.NewsItem.Select(r => new NewsItemDto
             {

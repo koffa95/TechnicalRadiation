@@ -8,9 +8,9 @@ namespace TechnicalRadiation.Services
     {
         private NewsItemRepository _newsItemRepository  = new NewsItemRepository();
 
-        public IEnumerable<NewsItemDto> GetAllNewsItems()
+        public IEnumerable<NewsItemDto> GetAllNewsItems(int id)
         {
-            return _newsItemRepository.GetAllNewsItems();
+            return _newsItemRepository.GetAllNewsItems(id);
         }
     }
 }

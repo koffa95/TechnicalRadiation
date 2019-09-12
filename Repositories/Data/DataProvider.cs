@@ -14,7 +14,7 @@ namespace TechnicalRadiation.Repositories.Data
             {
                 Id = 1,
                 Title = "Golden Globe Nominee Shawshank Redemption",
-                ImgSource = "http//:www.blah.com",
+                ImgSource = "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg",
                 ShortDescription = "Shawshank Redemptiongot many nominations",
                 LongDescription = "Shawshank Redemptiongot many nominations at the Golden Globes",
                 PublishDate = DateTime.Now,
@@ -26,7 +26,7 @@ namespace TechnicalRadiation.Repositories.Data
             {
                 Id = 2,
                 Title = "Golden Globe Award Shawshank Redemption",
-                ImgSource = "http//:www.blah.com",
+                ImgSource = "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg",
                 ShortDescription = "Shawshank Redemption got many awards",
                 LongDescription = "Shawshank Redemption got many awards at the Golden Globes",
                 PublishDate = DateTime.Now,
