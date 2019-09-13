@@ -6,6 +6,7 @@ namespace Models
         [Required]
         public string Title { get; set; }
         [Required]
+        [Url]
         public string ImgSource { get; set; }
         [Required]
         [Range(1,50)]
