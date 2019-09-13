@@ -1,14 +1,14 @@
 using System;
 using AutoMapper;
-using TechnicalRadiation.Models.DTO;
-using TechnicalRadiation.Models.Entities;
-using TechnicalRadiation.Models.InputModels;
+using Models.DTO;
+using Models.Entities;
+using Models;
 
 namespace TechnicalRadiation.WebApi.Mappings
 {
     public class MappingPro : Profile
     {
-        public MappingProfile()
+        public void MappingProfile()
         {
             CreateMap<NewsItem, NewsItemDto>();
             // CreateMap<NewsItemInputModel, NewsItem>()
