@@ -16,7 +16,7 @@ namespace Repositories.Data
                 Title = "Golden Globe Nominee Shawshank Redemption",
                 ImgSource = "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_CR0,60,640,360_AL_UX477_CR0,0,477,268_AL_.jpg",
                 ShortDescription = "Shawshank Redemptiongot many nominations",
-                LongDescription = "Shawshank Redemptiongot many nominations at the Golden Globes",
+                LongDescription = "Shawsh ",
                 PublishDate = DateTime.Now,
                 ModifiedBy = _adminName,
                 CreatedDate = DateTime.Now,
@@ -33,8 +33,44 @@ namespace Repositories.Data
                 ModifiedBy = _adminName,
                 CreatedDate = DateTime.Now,
                 ModifiedDate = DateTime.Now
+            },
+            new NewsItem
+            {
+                Id = 3,
+                Title = "Harry leaves Sally",
+                ImgSource = "https://images2.minutemediacdn.com/image/upload/c_crop,h_1171,w_2085,x_27,y_0/f_auto,q_auto,w_1100/v1554991835/shape/mentalfloss/57846-when_harry-mgm.jpg",
+                ShortDescription = "Harry has decided to leave Sally",
+                LongDescription = "arry has decided to leave Sally. arry has decided to leave Sally. ",
+                PublishDate = new DateTime(2012, 12, 31, 16, 45, 0),
+                ModifiedBy = _adminName,
+                CreatedDate = DateTime.Now,
+                ModifiedDate = DateTime.Now
+            },
+            new NewsItem
+            {
+                Id = 4,
+                Title = "Golden Globes Tonight",
+                ImgSource = "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Golden_Globe_Trophy.jpg/220px-Golden_Globe_Trophy.jpg",
+                ShortDescription = "The Golden Globe will be held tonight",
+                LongDescription = "The 2007 Golden globe awards will be held tonight for the Xth time.",
+                PublishDate = new DateTime(2007, 12, 31, 13, 00, 0),
+                ModifiedBy = _adminName,
+                CreatedDate = DateTime.Now,
+                ModifiedDate = DateTime.Now
+            },
+                        new NewsItem
+            {
+                Id = 5,
+                Title = "Future Golden Globes",
+                ImgSource = "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Golden_Globe_Trophy.jpg/220px-Golden_Globe_Trophy.jpg",
+                ShortDescription = "What will they be like",
+                LongDescription = "Golden globe  blah blah blah blah blah.",
+                PublishDate = new DateTime(2007, 12, 31, 13, 30, 0),
+                ModifiedBy = _adminName,
+                CreatedDate = DateTime.Now,
+                ModifiedDate = DateTime.Now
             }
-    }; /*
+    };/*
             },
             new Owner
             {

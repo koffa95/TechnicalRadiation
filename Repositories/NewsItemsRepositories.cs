@@ -8,9 +8,20 @@ namespace TechnicalRadiation.Repositories
 {
     public class NewsItemRepository
     {
-        public IEnumerable<NewsItemDto> GetAllNewsItems(int id)
+        public IEnumerable<NewsItemDto> GetAllNewsItems()
         {
-            return DataProvider.NewsItem.Select(r => new NewsItemDto
+            IEnumerable<NewsItem> res = DataProvider.NewsItem.Select(r => new NewsItem
+            {
+                Id = r.Id,
+                Title = r.Title,
+                ImgSource = r.ImgSource,
+                ShortDescription = r.ShortDescription,
+                PublishDate = r.PublishDate
+            }).OrderByDescending(NewsItem => NewsItem.PublishDate);
+            
+            ///IEnumerable<NewsItemDto> result = res as IEnumerable<NewsItemDto>;
+
+            return res.Select(r => new NewsItemDto
             {
                 Id = r.Id,
                 Title = r.Title,

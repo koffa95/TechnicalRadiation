@@ -7,7 +7,7 @@ using TechnicalRadiation.Services;
 
 namespace TechnicalRadiation.Controllers
 {
-    [Route("api/NewsItem")]
+    [Route("api")]
     [ApiController]
     public class Controller : ControllerBase
     {
@@ -15,16 +15,17 @@ namespace TechnicalRadiation.Controllers
         // GET api/""
         [Route("")]
         [HttpGet]
-        public ActionResult GetAllNews ()
+        public IActionResult GetAllNewsItems ([FromQuery] bool containUnavailable)
         {
-            return Ok();
+            
+            return Ok(_newsItemService.GetAllNewsItems());
         }
 
          // GET api/values/5
-        [HttpGet("{id}")]
+        [HttpGet("{id:int}")]
         public ActionResult<string> GetAllNewsItems(int id)
         {
-            return Ok(_newsItemService);
+            return Ok();
         }
 /*
         // POST api/values
